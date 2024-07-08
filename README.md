@@ -17,7 +17,7 @@ This repository contains a Flask application designed to fetch, plot, and genera
 1. Clone the repository:
     ```bash
     git clone https://github.com/hmadurrahmaan/Apple-Stock-Analysis.git
-    cd stock-price-query-app
+    cd Apple-Stock-Analysis
     ```
 
 2. Install the required packages:
